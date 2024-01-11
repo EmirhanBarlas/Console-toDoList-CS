@@ -1,0 +1,14 @@
+C:\Users\Emirh\source\repos\Console-ToDoList\bin\Debug\net8.0\Console-ToDoList.exe
+C:\Users\Emirh\source\repos\Console-ToDoList\bin\Debug\net8.0\Console-ToDoList.deps.json
+C:\Users\Emirh\source\repos\Console-ToDoList\bin\Debug\net8.0\Console-ToDoList.runtimeconfig.json
+C:\Users\Emirh\source\repos\Console-ToDoList\bin\Debug\net8.0\Console-ToDoList.dll
+C:\Users\Emirh\source\repos\Console-ToDoList\bin\Debug\net8.0\Console-ToDoList.pdb
+C:\Users\Emirh\source\repos\Console-ToDoList\obj\Debug\net8.0\Console-ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirh\source\repos\Console-ToDoList\obj\Debug\net8.0\Console-ToDoList.AssemblyInfoInputs.cache
+C:\Users\Emirh\source\repos\Console-ToDoList\obj\Debug\net8.0\Console-ToDoList.AssemblyInfo.cs
+C:\Users\Emirh\source\repos\Console-ToDoList\obj\Debug\net8.0\Console-ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Emirh\source\repos\Console-ToDoList\obj\Debug\net8.0\Console-ToDoList.dll
+C:\Users\Emirh\source\repos\Console-ToDoList\obj\Debug\net8.0\refint\Console-ToDoList.dll
+C:\Users\Emirh\source\repos\Console-ToDoList\obj\Debug\net8.0\Console-ToDoList.pdb
+C:\Users\Emirh\source\repos\Console-ToDoList\obj\Debug\net8.0\Console-ToDoList.genruntimeconfig.cache
+C:\Users\Emirh\source\repos\Console-ToDoList\obj\Debug\net8.0\ref\Console-ToDoList.dll
